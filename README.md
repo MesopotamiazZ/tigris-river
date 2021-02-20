@@ -1,3 +1,16 @@
+## 使用 React+typescript 从零到一打造一套自己的组件库
+
+tigris-river 是使用 React Hooks 和 typescript打造自己的组件库
+
+### 涉及到技术栈
+
+* 🔥typescript with React Hooks
+* ⛑️使用 react-testing-library 完成单元测试
+* 📚使用 storybook 本地调试和生成文档页面
+* 📚使用 react-doc-gen 自动生成文档
+* 📦使用第三方库扩充组件-(react-fontawesome, react-transition-group)
+
+### 一些本地开发命令
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
